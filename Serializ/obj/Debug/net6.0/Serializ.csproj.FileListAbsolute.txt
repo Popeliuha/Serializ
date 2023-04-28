@@ -1,0 +1,17 @@
+C:\Users\popel\source\repos\Serializ\Serializ\bin\Debug\net6.0\Serializ.exe
+C:\Users\popel\source\repos\Serializ\Serializ\bin\Debug\net6.0\Serializ.deps.json
+C:\Users\popel\source\repos\Serializ\Serializ\bin\Debug\net6.0\Serializ.runtimeconfig.json
+C:\Users\popel\source\repos\Serializ\Serializ\bin\Debug\net6.0\Serializ.dll
+C:\Users\popel\source\repos\Serializ\Serializ\bin\Debug\net6.0\Serializ.pdb
+C:\Users\popel\source\repos\Serializ\Serializ\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\Serializ.csproj.AssemblyReference.cache
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\Serializ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\Serializ.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\Serializ.AssemblyInfo.cs
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\Serializ.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\Serializ.csproj.CopyComplete
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\Serializ.dll
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\refint\Serializ.dll
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\Serializ.pdb
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\Serializ.genruntimeconfig.cache
+C:\Users\popel\source\repos\Serializ\Serializ\obj\Debug\net6.0\ref\Serializ.dll

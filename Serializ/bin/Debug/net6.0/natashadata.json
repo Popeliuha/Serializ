@@ -1,0 +1,16 @@
+{
+  "Person": {
+    "Name": "Vasyl",
+    "Surname": "Popov",
+    "Age": 30,
+    "Height": 120
+  },
+  "uniName": "ChNU",
+  "groupId": 643,
+  "Lessons": [
+    "Math",
+    "Eng",
+    "Science",
+    "History"
+  ]
+}

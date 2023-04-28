@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Vasyl</Name>
+    <Surname>Popov</Surname>
+    <Age>30</Age>
+    <Height>120</Height>
+  </Person>
+  <uniName>ChNU</uniName>
+  <groupId>643</groupId>
+  <Lessons>
+    <string>Math</string>
+    <string>Eng</string>
+    <string>Science</string>
+    <string>History</string>
+  </Lessons>
+</Student>
